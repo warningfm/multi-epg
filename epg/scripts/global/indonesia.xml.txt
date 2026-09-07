@@ -1,40 +1,209 @@
-AJWA TV.id;AJWA TV.id
+ABCAustralia.id;ABC Australia.id
+AFN.id;Asian Food Network.id
+Africanews.id;Africanews.id
+AjwaTV.id;Ajwa TV.id
+AlJazeeraArabic.id;Al Jazeera Arabic.id
+AlJazeeraEnglish.id;Al Jazeera English.id
+AlQuranAlKareem.id;Al Quran Al Kareem.id
+AnimalPlanet.id;Animal Planet.id
+Animax.id;Animax.id
+AntaraTV.id;Antara TV.id
 ANTV.id;ANTV.id
-Bein 1.id;Bein 1.id
-Bein 2.id;Bein 2.id
-Bein 3.id;Bein 3.id
-Berita Satu.id;Berita Satu.id
+Arirang.id;Arirang.id
+AXN.id;AXN.id
+BBCEarth.id;BBC Earth.id
+BBCWorldNews.id;BBC World News.id
+beINSports1.id;beIN Sports 1.id
+beINSports2.id;beIN Sports 2.id
+beINSports3.id;beIN Sports 3.id
+beINSports4.id;beIN Sports 4.id
+beINSports5.id;beIN Sports 5.id
+BeritaSatu.id;Berita Satu.id
+BioskopIndonesia.id;Bioskop Indonesia.id
+Bloomberg.id;Bloomberg.id
 BTV.id;BTV.id
-Champions Golf 2.id;Champions Golf 2.id
-Champions TV 1.id;Champions TV 1.id
-Champions TV 2.id;Champions TV 2.id
-Champions TV 3.id;Champions TV 3.id
-Champions TV 5.id;Champions TV 5.id
-Champions TV 6.id;Champions TV 6.id
+BuddyStar.id;Buddy Star.id
+CartoonTV.id;Cartoon TV.id
+CartoonTVPremium.id;Cartoon TV Premium.id
+CBeebies.id;CBeebies.id
+CCM.id;CCM.id
+CCTV4.id;CCTV 4.id
+CelebritiesTV.id;Celebrities TV.id
+CelestialMovies.id;Celestial Movies.id
+CGTN.id;CGTN.id
+CGTNDocumentary.id;CGTN Documentary.id
+ChampionsFight.id;Champions Fight.id
+ChampionsGolf1.id;Champions Golf 1.id
+ChampionsGolf2.id;Champions Golf 2.id
+ChampionsTV1.id;Champions TV 1.id
+ChampionsTV2.id;Champions TV 2.id
+ChampionsTV3.id;Champions TV 3.id
+ChampionsTV5.id;Champions TV 5.id
+ChampionsTV6.id;Champions TV 6.id
+ChannelJowo.id;Channel Jowo.id
+ChineseDrama.id;Chinese Drama.id
+Cineedge.id;Cineedge.id
+CinemaWorld.id;CinemaWorld.id
+Cinemax.id;Cinemax.id
+CitraDrama.id;Citra Drama.id
 CNA.id;CNA.id
-DAAI TV.id;DAAI TV.id
-Garuda TV.id;Garuda TV.id
-GGS TV.id;GGS TV.id
+CNBCAsia.id;CNBC Asia.id
+CNBCIndonesia.id;CNBC Indonesia.id
+CNNIndonesia.id;CNN Indonesia.id
+CookingTV.id;Cooking TV.id
+CrimeInvestigation.id;Crime Investigation.id
+DAAITV.id;DAAI TV.id
+DanceTV.id;Dance TV.id
+DaystarTV.id;Daystar TV.id
+DensFoodChannel.id;Dens Food Channel.id
+DensKnowledge.id;Dens Knowledge.id
+DensLifeAndStyle.id;Dens Life And Style.id
+DensPlay.id;Dens Play.id
+DensShowbiz.id;Dens Showbiz.id
+DIMTV.id;DIM TV.id
+DiscoveryAsia.id;Discovery Asia.id
+DiscoveryChannel.id;Discovery Channel.id
+DMITV.id;DMI TV.id
+Dreamworks.id;Dreamworks.id
+DuniaAnak.id;Dunia Anak.id
+DuniaLain.id;Dunia Lain.id
+DWEnglish.id;DW English.id
+EatNGo.id;Eat N Go.id
+Entertainment.id;Entertainment.id
+Euronews.id;Euronews.id
+FashionTV.id;Fashion TV.id
+FightSports.id;Fight Sports.id
+FightTV.id;Fight TV.id
+FoodTravel.id;Food Travel.id
+FootballTV.id;Football TV.id
+FOXNews.id;FOX News.id
+France24.id;France 24.id
+Galaxy.id;Galaxy.id
+GalaxyPremium.id;Galaxy Premium.id
+GamingTV.id;Gaming TV.id
+GarudaTV.id;Garuda TV.id
+GlobalTrekker.id;Global Trekker.id
+GTV.id;GTV.id
+HanacarakaTV.id;Hanacaraka TV.id
+HBO.id;HBO.id
+HBOFamily.id;HBO Family.id
+HBOHits.id;HBO Hits.id
+HBOSignature.id;HBO Signature.id
+HGTV.id;HGTV.id
+HipHipHoree!.id;Hip Hip Horee!.id
+History.id;History.id
+Hits.id;HITS.id
+HitsMovies.id;HITS Movies.id
+HitsNow.id;HITS Now.id
 Horee.id;Horee.id
+IDXChannel.id;IDX Channel.id
+IMC.id;IMC Indonesia Movie Channel.id
 Indosiar.id;Indosiar.id
-Jaktv.id;Jaktv.id
+iNews.id;iNews.id
+Insert.id;!nsert.id
+JakTV.id;JAKTV.id
+JawaPosTV.id;Jawa Pos TV.id
 JTV.id;JTV.id
-Kompas TV.id;Kompas TV.id
-Makkah TV.id;Makkah TV.id
+Khazanah.id;Khazanah.id
+KidsTV.id;Kids TV.id
+KIX.id;KIX.id
+Knowledge+.id;Knowledge+.id
+KompasTV.id;Kompas TV.id
+KPlus.id;KPlus.id
+Life.id;Life.id
+Lifetime.id;Lifetime.id
+LoveNature.id;Love Nature.id
+MAXKids.id;MAXKids.id
+MAXReels.id;MAXReels.id
+MAXStreamTV.id;MAXStream TV.id
 MDTV.id;MDTV.id
-Mentari TV.id;Mentari TV.id
-Metro TV.id;Metro TV.id
-Moji.id;Moji.id
-MUSICA.id;MUSICA.id
-Nusantara TV.id;Nusantara TV.id
-Real Madrid TV.id;Real Madrid TV.id
-Rock Action.id;Rock Action.id
+MentariTV.id;Mentari TV.id
+MetroTV.id;Metro TV.id
+MNCTV.id;MNCTV.id
+mOji.id;mOji.id
+Moonbug.id;Moonbug.id
+Motorvision+.id;Motorvision+.id
+MQTV.id;MQTV.id
+MTATV.id;MTA TV.id
+MUITV.id;MUI TV.id
+MusicTV.id;Music TV.id
+MusikIndonesia.id;Musik Indonesia.id
+MuslimTV.id;Muslim TV.id
+MyCinemaEurope.id;My Cinema Europe.id
+MyKidz.id;My Kidz.id
+NewTVComprehensive.id;New TV Comprehensive.id
+NewTVFinance.id;New TV Finance.id
+NewTVVariety.id;New TV Variety.id
+NHKWorldJapan.id;NHK World Japan.id
+NHKWorldPremium.id;NHK World Premium.id
+Nickelodeon.id;Nickelodeon.id
+NickJR.id;Nick JR.id
+NusantaraTV.id;Nusantara TV.id
+One.id;ONE.id
+OneTV.id;One TV.id
+Originals.id;Originals.id
+OutdoorChannel.id;Outdoor Channel.id
+PhoenixChinese.id;Phoenix Chinese.id
+PhoenixInfoNews.id;Phoenix Info News.id
+PijarTV.id;Pijar TV.id
+Prambors.id;Prambors.id
+PremierLeagueTV.id;Premier League TV.id
+PSJTV.id;PSJ TV.id
+R+LIVE.id;R+ LIVE.id
+RCTI.id;RCTI.id
+RealMadridTV.id;Real Madrid TV.id
+RockAction.id;Rock Action.id
+RockEntertainment.id;Rock Entertainment.id
+RT.id;Russia Today.id
 RTV.id;RTV.id
 SCTV.id;SCTV.id
-Sin Po TV.id;Sin Po TV.id
-SPOTV 2.id;SPOTV 2.id
-TRANS TV.id;TRANS TV.id
-Trans7.id;Trans7.id
-TVN.id;TVN.id
-TVOne.id;TVOne.id
-TVRI.id;TVRI.id
+ShenzhenTV.id;Shenzhen TV.id
+SindonewsTV.id;Sindonews TV.id
+SinpoTV.id;Sin Po TV.id
+SoccerChannel.id;Soccer Channel.id
+SongTV.id;Song TV.id
+SpeedTV.id;Speed TV.id
+Sportstars.id;Sportstars.id
+Sportstars2.id;Sportstars 2.id
+Sportstars3.id;Sportstars 3.id
+Sportstars4.id;Sportstars 4.id
+SportsTV.id;Sports TV.id
+SPOTV.id;SPOTV.id
+SPOTV2.id;SPOTV 2.id
+StingrayClassica.id;Stingray Classica.id
+StudioUniversal.id;Studio Universal.id
+Superrix.id;Superrix.id
+TheIndonesiaChannel.id;The Indonesia Channel.id
+Thrill.id;Thrill.id
+TLC.id;TLC.id
+Trans7.id;Trans 7.id
+TransTV.id;Trans TV.id
+TravelTV.id;Travel TV.id
+TRTWorld.id;TRT World.id
+TV5MondeAsie.id;TV5 Monde Asie.id
+TV9.id;TV 9.id
+tvN.id;tvN.id
+tvNMovies.id;tvN Movies.id
+tvOne.id;tvOne.id
+TVRI.id;TVRI Nasional.id
+Uniques.id;Uniques.id
+V+LIVE.id;V+ LIVE.id
+V+LIVE2.id;V+ LIVE 2.id
+V+LIVE3.id;V+ LIVE 3.id
+V+LIVE4.id;V+ LIVE 4.id
+V+LIVE5.id;V+ LIVE 5.id
+V+LIVE6.id;V+ LIVE 6.id
+V+LIVE7.id;V+ LIVE 7.id
+V+LIVE8.id;V+ LIVE 8.id
+V+LIVE9.id;V+ LIVE 9.id
+V+Sports.id;V+ Sports.id
+VisionPrime.id;Vision Prime.id
+VoliTV2.id;Voli TV 2.id
+VTV.id;VTV.id
+WarnerTV.id;Warner TV.id
+WionTV.id;Wion TV.id
+XtremSports.id;Xtrem Sports.id
+ZBioskop.id;Z Bioskop.id
+ZhejiangInt.id;Zhejiang Int.id
+ZooMoo.id;Zoo Moo.id
+
