@@ -40,16 +40,6 @@
 		"channel_id": "AXN.id"
 	},
 	{
-		"origin": "Bali TV.id",
-		"channel_name": "Bali TV",
-		"channel_id": "BaliTV.id"
-	},
-	{
-		"origin": "Bandung TV.id",
-		"channel_name": "Bandung TV",
-		"channel_id": "BandungTV.id"
-	},
-        {
 		"origin": "BBC Earth.id",
 		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
