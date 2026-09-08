@@ -334,17 +334,17 @@
 		"channel_name": "Love Nature Asia",
 		"channel_id": "LoveNature.id"
 	},
-        {
+     {
 		"origin": "MentariTV.id",
 		"channel_name": "Mentari TV",
 		"channel_id": "MentariTV.id"
 	},
-        {
+    {
 		"origin": "MetroTV.id",
 		"channel_name": "Metro TV HD",
 		"channel_id": "MetroTV.my.id"
 	},
-        {
+    {
 		"origin": "Moji.id",
 		"channel_name": "MOJI",
 		"channel_id": "Moji.id"
@@ -569,10 +569,10 @@
 		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
-        {
+    {
 		"origin": "tvOne.id",
 		"channel_name": "tvOne HD",
-		"channel_id": "tvOne.id"
+		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TVRI.id",
