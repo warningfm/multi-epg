@@ -5,6 +5,9 @@ https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
 indonesia.xml
 https://www.open-epg.com/files/indonesia.xml
 
+indonesia.guide.xml
+https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
+
 india.xml
 https://www.open-epg.com/files/india.xml
 
@@ -43,9 +46,6 @@ https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
 
 epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
-
-indonesia.xml
-https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
