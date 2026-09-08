@@ -732,7 +732,7 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI N",
-		"channel_id": "TVRIN.id"
+		"channel_id": "TVRIN.idn"
 	},
 	{
 		"origin": "Vision.Prime.id",
@@ -746,8 +746,8 @@
 	},
 	{
 		"origin": "Zee.Bioskop.id",
-		"channel_name": "Zee Bioskop",
-		"channel_id": "ZeeBioskop.in.id"
+		"channel_name": "Z Bioskop",
+		"channel_id": "ZBioskop.in.id"
 	},
 	{
 		"origin": "Zoomoo.id",
