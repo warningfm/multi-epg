@@ -280,6 +280,11 @@
 		"channel_id": "IDX.id"
 	},
 	{
+		"origin": "Indosiar.id",
+		"channel_name": "INDOSIAR HD",
+		"channel_id": "Indosiar.my.id"
+	},
+	{
 		"origin": "IMC (Indonesia Movie Channel).id",
 		"channel_name": "IMC",
 		"channel_id": "IMC.id"
@@ -315,7 +320,7 @@
 		"channel_id": "Kix.id"
 	},
 	{
-		"origin": "Kompas TV.id",
+		"origin": "KompasTV.id",
 		"channel_name": "Kompas TV",
 		"channel_id": "KompasTV.id"
 	},
@@ -330,12 +335,12 @@
 		"channel_id": "LoveNature.id"
 	},
         {
-		"origin": "Mentari TV.id",
+		"origin": "MentariTV.id",
 		"channel_name": "Mentari TV",
 		"channel_id": "MentariTV.id"
 	},
         {
-		"origin": "Metro TV.id",
+		"origin": "MetroTV.id",
 		"channel_name": "Metro TV HD",
 		"channel_id": "MetroTV.my.id"
 	},
@@ -379,7 +384,7 @@
 		"channel_name": "My Cinema Asia",
 		"channel_id": "MyCinemaAsia.id"
 	},
-        {
+    {
 		"origin": "My Cinema.id",
 		"channel_name": "My Cinema",
 		"channel_id": "MyCinema.id"
@@ -464,10 +469,10 @@
 		"channel_name": "RTV",
 		"channel_id": "RTV.id"
 	},
-        {
-		"origin": "SEA Today.id",
-		"channel_name": "SEA Today",
-		"channel_id": "SEAToday.id"
+    {
+		"origin": "SCTV.id",
+		"channel_name": "SCTV HD",
+		"channel_id": "SCTV.my.id"
 	},
 	{
 		"origin": "Shanghai Dragon.id",
@@ -515,7 +520,7 @@
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "Tawaf.id",
+		"origin": "DMITV.id",
 		"channel_name": "DMI TV",
 		"channel_id": "DMITV.id"
 	},
@@ -570,7 +575,7 @@
 		"channel_id": "tvOne.id"
 	},
 	{
-		"origin": "TVRI Nasional.id",
+		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
 		"channel_id": "TVRINasional.go.id"
 	},
