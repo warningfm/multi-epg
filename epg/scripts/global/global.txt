@@ -38,9 +38,6 @@ https://i.mjh.nz/world/epg.xml.gz
 epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 
-epg_ripper_DISTROTV1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz
-
 rakuten-uk-epg
 https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
 
