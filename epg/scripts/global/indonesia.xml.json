@@ -84,7 +84,7 @@
 		"channel_name": "beIN Sports 5 HD",
 		"channel_id": "beinSports5.id"
 	},
-        {
+    {
 		"origin": "Bloomberg.id",
 		"channel_name": "Bloomberg",
 		"channel_id": "Bloomberg.id"
@@ -99,12 +99,12 @@
 		"channel_name": "CBeebies HD",
 		"channel_id": "Cbeebies.id"
 	},
-        {
+    {
 		"origin": "CCM.id",
 		"channel_name": "CCM",
 		"channel_id": "CCM.id"
 	},
-        {
+    {
 		"origin": "Celebrities TV.id",
 		"channel_name": "Celebrities TV",
 		"channel_id": "Celebrities.TV.id"
@@ -149,12 +149,12 @@
 		"channel_name": "Cinemachi Xtra",
 		"channel_id": "CinemachiXtra.id"
 	},
-        {
+    {
 		"origin": "Cinemachi.id",
 		"channel_name": "Cinemachi",
 		"channel_id": "Cinemachi.id"
 	},
-        {
+    {
 		"origin": "CNBC Asia.id",
 		"channel_name": "CNBC Asia HD",
 		"channel_id": "CNBCAsia.id"
@@ -194,7 +194,7 @@
 		"channel_name": "Ent",
 		"channel_id": "Entertainment.id"
 	},
-        {
+    {
 		"origin": "EURONEWS.id",
 		"channel_name": "Euronews",
 		"channel_id": "Euronews.id"
@@ -214,7 +214,7 @@
 		"channel_name": "FMN",
 		"channel_id": "FMN.id"
 	},
-        {
+    {
 		"origin": "Food Travel.id",
 		"channel_name": "Food Travel",
 		"channel_id": "FoodTravel.id"
@@ -229,7 +229,7 @@
 		"channel_name": "France 24 English",
 		"channel_id": "France24English.fr.id"
 	},
-        {
+    {
 		"origin": "Garuda TV.id",
 		"channel_name": "Garuda TV",
 		"channel_id": "GarudaTV.id"
