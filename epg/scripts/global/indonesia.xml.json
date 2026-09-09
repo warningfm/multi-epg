@@ -95,12 +95,12 @@
 		"channel_id": "CCM.id"
 	},
     {
-		"origin": "Celebrities TV.id",
+		"origin": "CelebritiesTV.id",
 		"channel_name": "Celebrities TV",
 		"channel_id": "Celebrities.TV.id"
 	},
 	{
-		"origin": "Celestial Movies.id",
+		"origin": "CelestialMovies.id",
 		"channel_name": "Celestial Movies (V+)",
 		"channel_id": "CelestialMovies.id"
 	},
@@ -145,32 +145,32 @@
 		"channel_id": "Cinemachi.id"
 	},
     {
-		"origin": "CNBC Asia.id",
+		"origin": "CNBCAsia.id",
 		"channel_name": "CNBC Asia HD",
 		"channel_id": "CNBCAsia.id"
 	},
 	{
-		"origin": "Crime Investigation.id",
+		"origin": "CrimeInvestigation.id",
 		"channel_name": "Crime Investigation",
 		"channel_id": "CrimePlusInvestigation.id"
 	},
 	{
-		"origin": "DAAI TV.id",
+		"origin": "DAAITV.id",
 		"channel_name": "DAAI TV",
 		"channel_id": "DAAITV.id"
 	},
 	{
-		"origin": "DENS Food Channel.id",
+		"origin": "DensFoodChannel.id;Dens Food Channel.id",
 		"channel_name": "DENS Food Channel",
 		"channel_id": "DENSFoodChannel.id"
 	},
 	{
-		"origin": "DENS Showbizz Channel.id",
+		"origin": "DensShowbiz.id;Dens Showbiz.id",
 		"channel_name": "DENS Showbiz Channel",
 		"channel_id": "DENSShowbizzChannel.id"
 	},
     {
-		"origin": "Dream Works.id",
+		"origin": "Dreamworks.id;Dreamworks.id",
 		"channel_name": "Dreamworks HD",
 		"channel_id": "DreamWorks.id"
 	},
@@ -330,12 +330,12 @@
 		"channel_id": "LoveNature.id"
 	},
     {
-		"origin": "MentariTV.id",
+		"origin": "MentariTV.id;Mentari TV.id",
 		"channel_name": "Mentari TV",
 		"channel_id": "MentariTV.id"
 	},
     {
-		"origin": "MetroTV.id",
+		"origin": "MetroTV.id;Metro TV.id",
 		"channel_name": "Metro TV HD",
 		"channel_id": "MetroTV.my.id"
 	},
