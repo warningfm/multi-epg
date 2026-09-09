@@ -169,10 +169,15 @@
 		"channel_name": "DENS Showbiz Channel",
 		"channel_id": "DENSShowbizzChannel.id"
 	},
-        {
+    {
 		"origin": "Dream Works.id",
 		"channel_name": "Dreamworks HD",
 		"channel_id": "DreamWorks.id"
+	},
+	{
+		"origin": "DMITV.id",
+		"channel_name": "DMI TV",
+		"channel_id": "DMITV.id"
 	},
 	{
 		"origin": "DW.id",
@@ -195,7 +200,7 @@
 		"channel_id": "EWTN.id"
 	},
 	{
-		"origin": "Fight Sports.id",
+		"origin": "FightSports.id",
 		"channel_name": "Fight Sports",
 		"channel_id": "FightSports.us"
 	},
@@ -205,7 +210,7 @@
 		"channel_id": "FMN.id"
 	},
     {
-		"origin": "Food Travel.id",
+		"origin": "FoodTravel.id",
 		"channel_name": "Food Travel",
 		"channel_id": "FoodTravel.id"
 	},
@@ -215,12 +220,12 @@
 		"channel_id": "FoxNewsChannel.id"
 	},
 	{
-		"origin": "France 24.id",
+		"origin": "France24.id",
 		"channel_name": "France 24 English",
 		"channel_id": "France24English.fr.id"
 	},
     {
-		"origin": "Garuda TV.id",
+		"origin": "GarudaTV.id",
 		"channel_name": "Garuda TV",
 		"channel_id": "GarudaTV.id"
 	},
@@ -240,12 +245,12 @@
 		"channel_id": "GTV.idv"
 	},
 	{
-		"origin": "Global Trekker.id",
+		"origin": "GlobalTrekker.id",
 		"channel_name": "Global Trekker",
 		"channel_id": "GlobalTrekker.id"
 	},
 	{
-		"origin": "Hanacaraka TV.id",
+		"origin": "HanacarakaTV.id",
 		"channel_name": "Hanacaraka TV",
 		"channel_id": "HanacarakaTV.id"
 	},
@@ -255,7 +260,7 @@
 		"channel_id": "History.id"
 	},
 	{
-		"origin": "Hits Movies.id",
+		"origin": "HitsMovies.id",
 		"channel_name": "Hits Movies",
 		"channel_id": "HitsMovies.id"
 	},
@@ -265,7 +270,7 @@
 		"channel_id": "Hits.id"
 	},
 	{
-		"origin": "IDX.id",
+		"origin": "IDXChannel.id",
 		"channel_name": "IDX",
 		"channel_id": "IDX.id"
 	},
@@ -275,7 +280,7 @@
 		"channel_id": "Indosiar.my.id"
 	},
 	{
-		"origin": "IMC (Indonesia Movie Channel).id",
+		"origin": "IMC.idd",
 		"channel_name": "IMC",
 		"channel_id": "IMC.id"
 	},
@@ -285,7 +290,7 @@
 		"channel_id": "iNews.id"
 	},
         {
-		"origin": "JAK TV.id",
+		"origin": "JakTV.id",
 		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
@@ -300,7 +305,7 @@
 		"channel_id": "JTV.id"
 	},
 	{
-		"origin": "Kids TV.id",
+		"origin": "KidsTV.id",
 		"channel_name": "Kids TV",
 		"channel_id": "KidsTV.id"
 	},
@@ -320,11 +325,11 @@
 		"channel_id": "Lifetime.id"
 	},
 	{
-		"origin": "Love Nature.id",
+		"origin": "LoveNature.id",
 		"channel_name": "Love Nature Asia",
 		"channel_id": "LoveNature.id"
 	},
-     {
+    {
 		"origin": "MentariTV.id",
 		"channel_name": "Mentari TV",
 		"channel_id": "MentariTV.id"
@@ -360,32 +365,32 @@
 		"channel_id": "MTVLive.id"
 	},
 	{
-		"origin": "Music TV.id",
+		"origin": "MusicTV.id",
 		"channel_name": "Music TV",
 		"channel_id": "MusicTV.id"
 	},
 	{
-		"origin": "Muslim TV.id",
+		"origin": "MuslimTV.id",
 		"channel_name": "Muslim TV",
 		"channel_id": "MuslimTV.id"
 	},
 	{
-		"origin": "My Cinema Asia.id",
-		"channel_name": "My Cinema Asia",
-		"channel_id": "MyCinemaAsia.id"
+		"origin": "MyCinemaEurope.id",
+		"channel_name": "My Cinema Europe",
+		"channel_id": "MyCinemaEurope.id"
 	},
     {
-		"origin": "My Cinema.id",
-		"channel_name": "My Cinema",
-		"channel_id": "MyCinema.id"
+		"origin": "Motorvision+.id",
+		"channel_name": "Motorvision+",
+		"channel_id": "Motorvision+.id"
 	},
 	{
-		"origin": "My Family Channel.id",
-		"channel_name": "My Family Channel",
-		"channel_id": "MyFamilyChannel.id"
+		"origin": "MQTV.id",
+		"channel_name": "MQTV",
+		"channel_id": "MQTV.id"
 	},
 	{
-		"origin": "My Kidz.id",
+		"origin": "MyKidz.id",
 		"channel_name": "My Kidz",
 		"channel_id": "MyKidz.id"
 	},
@@ -395,7 +400,7 @@
 		"channel_id": "MDTV.my.id"
 	},
 	{
-		"origin": "NHK World Premium.id",
+		"origin": "NHKWorldPremium.id",
 		"channel_name": "NHK World Premium",
 		"channel_id": "NHKWorldPremium.id"
 	},
@@ -405,7 +410,7 @@
 		"channel_id": "NHKWorldJapan.jp.id"
 	},
 	{
-		"origin": "Nick Jr.id",
+		"origin": "NickJr.id",
 		"channel_name": "Nick Jr.",
 		"channel_id": "NickJr.id"
 	},
@@ -414,20 +419,20 @@
 		"channel_name": "Nickelodeon",
 		"channel_id": "Nickelodeon.id"
 	},
-        {
-		"origin": "One.id",
-		"channel_name": "ONE",
-		"channel_id": "One.id"
+    {
+		"origin": "NusantaraTV.id",
+		"channel_name": "Nusantara TV",
+		"channel_id": "NusantaraTV.id"
 	},
 	{
-		"origin": "Outdoor Channel.id",
+		"origin": "OutdoorChannel.id",
 		"channel_name": "Outdoor Channel",
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
-		"origin": "R+ LIVE.id",
-		"channel_name": "R+ LIVE",
-		"channel_id": "R+LIVE.id"
+		"origin": "One.id",
+		"channel_name": "ONE",
+		"channel_id": "One.id"
 	},
 	{
 		"origin": "RCTI.id",
@@ -454,7 +459,7 @@
 		"channel_name": "Russia Today",
 		"channel_id": "RT.id"
 	},
-        {
+    {
 		"origin": "RTV.id",
 		"channel_name": "RTV",
 		"channel_id": "RTV.id"
@@ -475,27 +480,27 @@
 		"channel_id": "Sindo.News.TV.id"
 	},
 	{
-		"origin": "Soccer Channel.id",
+		"origin": "SoccerChannel.id",
 		"channel_name": "Soccer Channel",
 		"channel_id": "SoccerChannel.id"
 	},
-        {
+    {
 		"origin": "Sportstars.id",
 		"channel_name": "Sportstars",
 		"channel_id": "Sportstars.id"
 	},
 	{
-		"origin": "Sportstars 2.id",
+		"origin": "Sportstars2.id",
 		"channel_name": "Sportstars 2",
 		"channel_id": "Sportstars2.id"
 	},
 	{
-		"origin": "Sportstars 3.id",
+		"origin": "Sportstars3.id",
 		"channel_name": "Sportstars 3",
 		"channel_id": "Sportstars3.id"
 	},
 	{
-		"origin": "Sportstars 4.id",
+		"origin": "Sportstars4.id",
 		"channel_name": "Sportstars 4",
 		"channel_id": "Sportstars4.id"
 	},
@@ -510,9 +515,9 @@
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "DMITV.id",
-		"channel_name": "DMI TV",
-		"channel_id": "DMITV.id"
+		"origin": "SinpoTV.id",
+		"channel_name": "Sin Po TV",
+		"channel_id": "SinpoTV.id"
 	},
 	{
 		"origin": "Thrill.id",
@@ -520,22 +525,22 @@
 		"channel_id": "Thrill.id"
 	},
 	{
-		"origin": "Trans 7.id",
+		"origin": "Trans7.id",
 		"channel_name": "Trans 7",
 		"channel_id": "Trans7.id"
 	},
 	{
-		"origin": "Trans TV.id",
+		"origin": "TransTV.id",
 		"channel_name": "Trans TV",
 		"channel_id": "TransTV.id"
 	},
 	{
-		"origin": "TRT World.id",
+		"origin": "TRTWorld.id",
 		"channel_name": "TRT World",
 		"channel_id": "TRTWorld.tr.id"
 	},
 	{
-		"origin": "TV 9.id",
+		"origin": "TV9.id",
 		"channel_name": "TV9 Nusantara",
 		"channel_id": "TV9Nusantara.id"
 	},
@@ -550,7 +555,7 @@
 		"channel_id": "TV5Monde.id"
 	},
 	{
-		"origin": "TVN Movies.id",
+		"origin": "tvNMovies.id",
 		"channel_name": "TVN Movies",
 		"channel_id": "TVNMovies.id"
 	},
@@ -570,9 +575,14 @@
 		"channel_id": "TVRINasional.go.id"
 	},
 	{
-		"origin": "Vision Prime.id",
+		"origin": "VisionPrime.id",
 		"channel_name": "Vision Prime",
 		"channel_id": "VisionPrime.id"
+	},
+	{
+		"origin": "VTV.id",
+		"channel_name": "VTV",
+		"channel_id": "VTV.id"
 	},
 	{
 		"origin": "Xing kong TV.id",
