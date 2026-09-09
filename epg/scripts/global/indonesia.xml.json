@@ -1,16 +1,16 @@
 [
 	{
-		"origin": "ABC Australia.id",
+		"origin": "ABCAustralia.id",
 		"channel_name": "ABC Australia",
 		"channel_id": "ABCAustralia.id"
 	},
 	{
-		"origin": "Al Quran Al Kareem.id",
+		"origin": "AlQuranAlKareem.id",
 		"channel_name": "AlQuran Kareem",
 		"channel_id": "AlQuranKareem.id"
 	},
 	{
-		"origin": "Aljazeera.id",
+		"origin": "AlJazeeraEnglish.idd",
 		"channel_name": "Al Jazeera English",
 		"channel_id": "AlJazeeraEnglish.id"
 	},
@@ -25,7 +25,7 @@
 		"channel_id": "AnimaxAsia.id"
 	},
 	{
-		"origin": "ANTV.id",
+		"origin": "ANTV.id;ANTV.id",
 		"channel_name": "ANTV",
 		"channel_id": "ANTV.id"
 	},
@@ -40,17 +40,17 @@
 		"channel_id": "AXN.id"
 	},
 	{
-		"origin": "BBC Earth.id",
+		"origin": "BBCEarth.id",
 		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
-		"origin": "BBC World news.id",
+		"origin": "BBCWorldNews.id",
 		"channel_name": "BBC World News",
 		"channel_id": "BBCWorldNews.id"
 	},
 	{
-		"origin": "beIN SPORTS.id",
+		"origin": "beINSPORTS.id",
 		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beinSports1.id"
 	},
